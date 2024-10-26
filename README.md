@@ -2,7 +2,7 @@
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/2c4fc70a-9633-485e-a3d6-aef57359b81a">
 
-Hosted link: https://santosh-2003-sahoo.github.io/App2-Weather-app/
+Hosted link: https://github.com/SunnySaiPavan/weather-monitor.git
 
 
 ## Overview
@@ -38,7 +38,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Santosh-2003-sahoo/App2-Weather-app.git"
+   git clone "https://github.com/SunnySaiPavan/weather-monitor.git"
    cd weather-monitor
    ```
 
